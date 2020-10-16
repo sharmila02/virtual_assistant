@@ -2,7 +2,7 @@
 """
 Created on Thu May 28 14:00:59 2020
 
-@author: Admin
+@author: Sharmila Siram
 """
 import wolframalpha
 client = wolframalpha.Client("WXQ48V-TY6K637297")
